@@ -1,0 +1,6 @@
+{
+  "name": "Sri Ram Energy",
+  "description": "Professional solar EPC platform for PM Surya Ghar Yojana in Odisha, featuring subsidy calculators and easy booking flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

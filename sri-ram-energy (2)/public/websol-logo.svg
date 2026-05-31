@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120">
+  <g fill="#F04E23" font-family="sans-serif">
+    <text y="60" x="20" font-weight="900" font-size="54" letter-spacing="3">WEBS</text>
+    <circle cx="195" cy="41" r="16" stroke="#F04E23" stroke-width="6" fill="none"/>
+    <circle cx="195" cy="41" r="5" />
+    <text y="60" x="225" font-weight="900" font-size="54" letter-spacing="3">L</text>
+    <text y="90" x="24" font-weight="600" font-size="12" letter-spacing="3.5">POWERING TOMORROW'S ENERGY</text>
+  </g>
+</svg>
